@@ -28,6 +28,8 @@ Provide comments below:
 1) npm install 
 2) npm start 
 3) From your browser go to the URL http://localhost:8000/
+4) Bar graph displaying the daily sales of the items is displayed. 
+5) Line chart displaying product sales by name is displayed.  
 
 A very simple app that will get data from the server and display it as a graph using reactjs components. 
 The browser refresh will get the latest information from the server again. 
